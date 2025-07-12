@@ -1,6 +1,5 @@
 ﻿# GCI
-Source code and data for *Everything Has a Cause: Leveraging Causal Inference in Legal Text Analysis* (NAACL 2021 oral paper).
-
+ 
 ---
 
 ## Dependencies
